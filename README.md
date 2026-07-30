@@ -1,2 +1,2 @@
-# fplearning
+# fp-learning
 learning functional programming
